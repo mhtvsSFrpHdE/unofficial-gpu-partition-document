@@ -4,6 +4,16 @@ Some of them contains magic values and wrong argument only work for their PC.
 
 Instead of a script, this repository focus on important steps and why.
 
+## Deprecated
+Due to these unsolvable issue, I moved to KVM as GPU virtualization solution.  
+https://github.com/mhtvsSFrpHdE/unofficial-gpu-partition-document/issues/16  
+https://github.com/mhtvsSFrpHdE/unofficial-gpu-partition-document/issues/14  
+
+Exist information are still useful,  
+you can submit pull request if you have information to share about GPU Partition,  
+or for those who also interested in KVM  
+https://github.com/mhtvsSFrpHdE/unofficial-kvm-pci-passthrough-document
+
 ## Usage
 PowerShell commands with comments in `.md` markdown file.  
 You can copy and paste, run in a admin permission powershell window directly.  
